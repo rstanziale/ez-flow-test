@@ -13,9 +13,10 @@
   "author": "Roberto B. Stanziale",
   "license": "MIT",
   "dependencies": {
-    "@rs-box/ez-flow": "~1.0.0"
+    "@rs-box/ez-flow": "^1.1.0"
   },
   "devDependencies": {
+    "@types/node": "^20.11.5",
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "@typescript-eslint/parser": "^6.7.3",
     "eslint": "^8.50.0",

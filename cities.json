@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Rome",
+    "region": "Lazio",
+    "population": 2870493,
+    "latitude": 41.9028,
+    "longitude": 12.4964
+  },
+  {
+    "name": "Milan",
+    "region": "Lombardy",
+    "population": 1366180,
+    "latitude": 45.4642,
+    "longitude": 9.19
+  },
+  {
+    "name": "Florence",
+    "region": "Tuscany",
+    "population": 382258,
+    "latitude": 43.7696,
+    "longitude": 11.2558
+  },
+  {
+    "name": "Venice",
+    "region": "Veneto",
+    "population": 258685,
+    "latitude": 45.4408,
+    "longitude": 12.3155
+  },
+  {
+    "name": "Naples",
+    "region": "Campania",
+    "population": 967069,
+    "latitude": 40.8522,
+    "longitude": 14.2681
+  },
+  {
+    "name": "Turin",
+    "region": "Piedmont",
+    "population": 870456,
+    "latitude": 45.0703,
+    "longitude": 7.6869
+  },
+  {
+    "name": "Bologna",
+    "region": "Emilia-Romagna",
+    "population": 400897,
+    "latitude": 44.4949,
+    "longitude": 11.3426
+  },
+  {
+    "name": "Genoa",
+    "region": "Liguria",
+    "population": 587441,
+    "latitude": 44.4056,
+    "longitude": 8.9463
+  },
+  {
+    "name": "Palermo",
+    "region": "Sicily",
+    "population": 673735,
+    "latitude": 38.1157,
+    "longitude": 13.3615
+  },
+  {
+    "name": "Verona",
+    "region": "Veneto",
+    "population": 257353,
+    "latitude": 45.4384,
+    "longitude": 10.9916
+  },
+  {
+    "name": "Bari",
+    "region": "Apulia",
+    "population": 320475,
+    "latitude": 41.1172,
+    "longitude": 16.8719
+  },
+  {
+    "name": "Catania",
+    "region": "Sicily",
+    "population": 311584,
+    "latitude": 37.5079,
+    "longitude": 15.083
+  },
+  {
+    "name": "Padua",
+    "region": "Veneto",
+    "population": 214198,
+    "latitude": 45.4064,
+    "longitude": 11.8768
+  },
+  {
+    "name": "Trieste",
+    "region": "Friuli-Venezia Giulia",
+    "population": 204849,
+    "latitude": 45.6495,
+    "longitude": 13.7768
+  },
+  {
+    "name": "Messina",
+    "region": "Sicily",
+    "population": 231708,
+    "latitude": 38.1938,
+    "longitude": 15.554
+  },
+  {
+    "name": "Reggio Calabria",
+    "region": "Calabria",
+    "population": 183592,
+    "latitude": 38.1157,
+    "longitude": 15.65
+  },
+  {
+    "name": "Cagliari",
+    "region": "Sardinia",
+    "population": 154460,
+    "latitude": 39.215,
+    "longitude": 9.1106
+  },
+  {
+    "name": "Perugia",
+    "region": "Umbria",
+    "population": 167547,
+    "latitude": 43.1107,
+    "longitude": 12.389
+  },
+  {
+    "name": "Foggia",
+    "region": "Apulia",
+    "population": 151271,
+    "latitude": 41.4624,
+    "longitude": 15.5449
+  },
+  {
+    "name": "Salerno",
+    "region": "Campania",
+    "population": 133097,
+    "latitude": 40.6827,
+    "longitude": 14.7697
+  },
+  {
+    "name": "Taranto",
+    "region": "Apulia",
+    "population": 197214,
+    "latitude": 40.4642,
+    "longitude": 17.2429
+  },
+  {
+    "name": "Ravenna",
+    "region": "Emilia-Romagna",
+    "population": 159057,
+    "latitude": 44.4184,
+    "longitude": 12.2031
+  },
+  {
+    "name": "Pescara",
+    "region": "Abruzzo",
+    "population": 118947,
+    "latitude": 42.4602,
+    "longitude": 14.2102
+  },
+  {
+    "name": "Livorno",
+    "region": "Tuscany",
+    "population": 157052,
+    "latitude": 43.5485,
+    "longitude": 10.3106
+  },
+  {
+    "name": "Civitavecchia",
+    "region": "Lazio",
+    "population": 52580,
+    "latitude": 42.0931,
+    "longitude": 11.7969
+  },
+  {
+    "name": "Ancona",
+    "region": "Marche",
+    "population": 100497,
+    "latitude": 43.6158,
+    "longitude": 13.5189
+  },
+  {
+    "name": "Brindisi",
+    "region": "Apulia",
+    "population": 84547,
+    "latitude": 40.6321,
+    "longitude": 17.9364
+  },
+  {
+    "name": "Modena",
+    "region": "Emilia-Romagna",
+    "population": 184727,
+    "latitude": 44.6471,
+    "longitude": 10.9259
+  },
+  {
+    "name": "Parma",
+    "region": "Emilia-Romagna",
+    "population": 195313,
+    "latitude": 44.8015,
+    "longitude": 10.3279
+  },
+  {
+    "name": "Piacenza",
+    "region": "Emilia-Romagna",
+    "population": 101071,
+    "latitude": 45.0486,
+    "longitude": 9.6921
+  },
+  {
+    "name": "Cosenza",
+    "region": "Calabria",
+    "population": 267337,
+
+    "latitude": 39.292,
+    "longitude": 16.2568
+  },
+  {
+    "name": "Monza",
+    "region": "Lombardy",
+    "population": 122271,
+    "latitude": 45.5845,
+    "longitude": 9.2732
+  },
+  {
+    "name": "La Spezia",
+    "region": "Liguria",
+    "population": 93218,
+    "latitude": 44.1102,
+    "longitude": 9.8281
+  },
+  {
+    "name": "Forlì",
+    "region": "Emilia-Romagna",
+    "population": 117275,
+    "latitude": 44.2224,
+    "longitude": 12.0418
+  },
+  {
+    "name": "Bolzano",
+    "region": "Trentino-Alto Adige",
+    "population": 107317,
+    "latitude": 46.4983,
+    "longitude": 11.3546
+  },
+  {
+    "name": "Udine",
+    "region": "Friuli-Venezia Giulia",
+    "population": 100514,
+    "latitude": 46.0728,
+    "longitude": 13.2344
+  },
+  {
+    "name": "Siracusa",
+    "region": "Sicily",
+    "population": 122722,
+    "latitude": 37.0755,
+    "longitude": 15.2866
+  },
+  {
+    "name": "Novara",
+    "region": "Piedmont",
+    "population": 104284,
+    "latitude": 45.4459,
+    "longitude": 8.6218
+  },
+  {
+    "name": "Pisa",
+    "region": "Tuscany",
+    "population": 90936,
+    "latitude": 43.7228,
+    "longitude": 10.4017
+  },
+  {
+    "name": "Bergamo",
+    "region": "Lombardy",
+    "population": 120889,
+    "latitude": 45.6983,
+    "longitude": 9.6773
+  },
+  {
+    "name": "Arezzo",
+    "region": "Tuscany",
+    "population": 99599,
+    "latitude": 43.4624,
+    "longitude": 11.88
+  },
+  {
+    "name": "Mantua",
+    "region": "Lombardy",
+    "population": 48408,
+    "latitude": 45.1562,
+    "longitude": 10.7915
+  },
+  {
+    "name": "Crotone",
+    "region": "Calabria",
+    "population": 63352,
+    "latitude": 39.0807,
+    "longitude": 17.1251
+  },
+  {
+    "name": "Barletta",
+    "region": "Apulia",
+    "population": 157696,
+    "latitude": 41.3114,
+    "longitude": 16.2902
+  },
+  {
+    "name": "Aosta",
+    "region": "Aosta Valley",
+    "population": 34586,
+    "latitude": 45.7375,
+    "longitude": 7.3154
+  },
+  {
+    "name": "Trapani",
+    "region": "Sicily",
+    "population": 68886,
+    "latitude": 38.0185,
+    "longitude": 12.5123
+  },
+  {
+    "name": "Vicenza",
+    "region": "Veneto",
+    "population": 111927,
+    "latitude": 45.5455,
+    "longitude": 11.535
+  },
+  {
+    "name": "Frosinone",
+    "region": "Lazio",
+    "population": 46666,
+    "latitude": 41.6461,
+    "longitude": 13.3422
+  },
+  {
+    "name": "Ragusa",
+    "region": "Sicily",
+    "population": 73154,
+    "latitude": 36.93,
+    "longitude": 14.7254
+  },
+  {
+    "name": "Lecce",
+    "region": "Apulia",
+    "population": 95116,
+    "latitude": 40.3514,
+    "longitude": 18.1694
+  }
+]

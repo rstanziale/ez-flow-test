@@ -5,8 +5,9 @@
     "module": "CommonJS",
     "noImplicitAny": true,
     "declaration": true,
-    "strict": true,
-    "removeComments": true
+    "strict": false,
+    "removeComments": true,
+    "sourceMap": true
   },
   "include": ["src"],
   "exclude": ["node_modules"]
