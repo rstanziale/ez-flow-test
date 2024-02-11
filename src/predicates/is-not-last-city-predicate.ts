@@ -26,11 +26,15 @@ export class IsNotLastCityPredicate implements Predicate {
   }
 
   private generateOutput(workReport: WorkReport) {
-    // Update the context for each work report
     if (workReport instanceof ParallelWorkReport) {
+      // Update the context for each work report
       workReport.getWorkList().forEach((work: WorkReport) => {
         work.getWorkContext().set(ContextKey.CITY_INDEX, this.currentCityIndex);
       });
+    } else {
+      workReport
+        .getWorkContext()
+        .set(ContextKey.CITY_INDEX, this.currentCityIndex);
     }
   }
 }

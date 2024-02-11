@@ -32,10 +32,10 @@ export class CitiesWorkflow {
       .addWork(new ValidateContextWork())
       .addWork(
         RepeatFlow.Builder.newFlow()
-          .withName('Loop on cities')
+          .withName('Loop over cities')
           .withWork(
             ParallelFlow.Builder.newFlow()
-              .withName('Operations on a city')
+              .withName('Operations city')
               .withWorks([new PrintCityWork(), new RegionCity()])
               .build(),
           )
