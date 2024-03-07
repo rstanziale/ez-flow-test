@@ -37,6 +37,12 @@ This is a *Parallel Flow* that executes the list of units passed as input, in th
 
 ![Operations city](./doc/img/ez-flow-test_operations-city.png)
 
+### Complete
+
+This is the complete workflow resulting from the combination of those shown above.
+
+![Complete workflow](./doc/img/ez-flow-test_complete.png)
+
 ## Result
 
 Finally, the workflow described above is translated as follows:
